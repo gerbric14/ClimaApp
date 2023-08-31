@@ -1,4 +1,4 @@
-import AppClima from "./components/Appclima"
+import AppClima from "./components/AppClima"
 import {ClimaProvider} from './context/ClimaProvider'
 
 function App() {
